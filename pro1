@@ -1,10 +1,5 @@
 num1 = float(input("Enter first number "))
 num2 = float(input("Enter second number "))
-print("Choose an operation:")
-print("Add")
-print("Subtract")
-print("Multiply")
-print("Divide")
 
 choice = input("Enter your choice (Add/Subtract/Multiply/Divide): ")
 if choice == 'Add':
